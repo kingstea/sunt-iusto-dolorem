@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@kingstea/sunt-iusto-dolorem",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,32 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/kingstea/sunt-iusto-dolorem.git"
   },
   "dependencies": {
+    "@kingstea/beatae-harum-optio": "^1.0.0",
+    "@kingstea/bug-free-octo-waddle": "^1.0.0",
+    "@kingstea/consequuntur-reiciendis-explicabo": "^1.0.0",
+    "@kingstea/debitis-laborum-atque": "^1.0.0",
+    "@kingstea/dolorem-facilis-laudantium": "^1.0.0",
+    "@kingstea/dolorum-harum-occaecati": "^1.0.0",
+    "@kingstea/earum-eaque-asperiores": "^1.0.0",
+    "@kingstea/eius-praesentium-nostrum": "^1.0.0",
+    "@kingstea/explicabo-perspiciatis-eligendi": "^1.0.0",
+    "@kingstea/fugit-distinctio-esse": "^1.0.0",
+    "@kingstea/libero-debitis-aliquam": "^1.0.0",
+    "@kingstea/odio-aspernatur-placeat": "^1.0.0",
+    "@kingstea/placeat-hic-dignissimos": "^1.0.0",
+    "@kingstea/possimus-delectus-atque": "^1.0.0",
+    "@kingstea/possimus-repellendus-animi": "^1.0.0",
+    "@kingstea/quam-in-occaecati": "^1.0.0",
+    "@kingstea/quasi-harum-illum": "^1.0.0",
+    "@kingstea/quis-aspernatur-dolorum": "^1.0.0",
+    "@kingstea/quisquam-laudantium-tempore": "^1.0.0",
+    "@kingstea/rerum-repellat-omnis": "^1.0.0",
+    "@kingstea/similique-beatae-totam": "^1.0.0",
+    "@kingstea/sint-dolorum-cumque": "^1.0.0",
+    "@kingstea/vero-consectetur-ab": "^1.0.0",
+    "@kingstea/vitae-aspernatur-incidunt": "^1.0.0"
   }
 }
